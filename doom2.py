@@ -1,6 +1,4 @@
 # Michelle Yoon
-# 30189382
-# tutorial 8
 # version: Nov1, Nov2, Nov.3rd 2023
 # Program features: 
 # 1. Rule of the game
