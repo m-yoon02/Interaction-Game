@@ -1,6 +1,4 @@
 # Michelle Yoon
-# UCID : 30189382
-# Tutorial 8
 # overall features: user gets to choose a starting pattern among the 7 options. 6 options are the precreated patterns and 7th option is a file where user has to input. If user chooses the precreated pattern, the program will execute the corresponding def function and return "oldWorld".
 #                           The program then counts the number of the neighborhoods around the critter (returns 'counts') and apply the rules of 'birth and death' for the 'new world'  in apply_rules function (retern newWorld).
 #                           Finally program executes display function, printing both 'old world' and 'new world'. Every new turn, new world of the previous turn has to be the old world. Data has to be copied.
